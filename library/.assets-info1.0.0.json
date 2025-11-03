@@ -1,0 +1,83 @@
+{
+  "version": "1.0.0",
+  "map": {
+    "D:\\workspace\\cocosworkspace\\dynamicListZip\\assets\\core": {
+      "time": 1761820910000,
+      "uuid": "24f9c0b8-f5cc-490f-ae32-35c071d1e528"
+    },
+    "D:\\workspace\\cocosworkspace\\dynamicListZip\\assets\\test": {
+      "time": 1761820910000,
+      "uuid": "7e909b3f-22ba-4b22-981b-66aea900b3a2"
+    },
+    "D:\\workspace\\cocosworkspace\\dynamicListZip\\assets\\core\\FixedScrollView.ts": {
+      "time": 1761820755000,
+      "uuid": "d01f47bd-9a02-4b04-99f2-787919525e48"
+    },
+    "D:\\workspace\\cocosworkspace\\dynamicListZip\\assets\\core\\VList.ts": {
+      "time": 1761820755000,
+      "uuid": "ef77d3b6-d5b9-4516-a4c0-40614e39ef85"
+    },
+    "D:\\workspace\\cocosworkspace\\dynamicListZip\\assets\\core\\VListLayerCom.ts": {
+      "time": 1761820755000,
+      "uuid": "ccf8148c-093a-45d1-8631-b81bf6ecf9a9"
+    },
+    "D:\\workspace\\cocosworkspace\\dynamicListZip\\assets\\core\\WidgetUtils.ts": {
+      "time": 1761820755000,
+      "uuid": "3b0aabef-0abb-4d77-848f-322c9515edaa"
+    },
+    "D:\\workspace\\cocosworkspace\\dynamicListZip\\assets\\test\\DynamicList.ts": {
+      "time": 1761820755000,
+      "uuid": "8966b71b-6435-4e9b-a352-0062f52c871d"
+    },
+    "D:\\workspace\\cocosworkspace\\dynamicListZip\\assets\\test\\Test.ts": {
+      "time": 1761820755000,
+      "uuid": "6fbf06ab-1940-488a-b6bd-6937bb0db8bb"
+    },
+    "D:\\workspace\\cocosworkspace\\dynamicListZip\\assets\\core.meta": {
+      "time": 1761820755000
+    },
+    "D:\\workspace\\cocosworkspace\\dynamicListZip\\assets\\test.meta": {
+      "time": 1761820755000
+    },
+    "D:\\workspace\\cocosworkspace\\dynamicListZip\\assets\\core\\FixedScrollView.ts.meta": {
+      "time": 1761820755000
+    },
+    "D:\\workspace\\cocosworkspace\\dynamicListZip\\assets\\core\\VList.ts.meta": {
+      "time": 1761820755000
+    },
+    "D:\\workspace\\cocosworkspace\\dynamicListZip\\assets\\core\\VListLayerCom.ts.meta": {
+      "time": 1761820755000
+    },
+    "D:\\workspace\\cocosworkspace\\dynamicListZip\\assets\\core\\WidgetUtils.ts.meta": {
+      "time": 1761820755000
+    },
+    "D:\\workspace\\cocosworkspace\\dynamicListZip\\assets\\test\\DynamicList.ts.meta": {
+      "time": 1761820755000
+    },
+    "D:\\workspace\\cocosworkspace\\dynamicListZip\\assets\\test\\Test.ts.meta": {
+      "time": 1761820755000
+    },
+    "D:\\workspace\\cocosworkspace\\dynamicListZip\\assets\\test\\DynamicListTest.scene": {
+      "time": 1761896207355.6604,
+      "uuid": "16c50597-97c6-4fd7-8ae6-a4e7b2af18e9"
+    },
+    "D:\\workspace\\cocosworkspace\\dynamicListZip\\assets\\test\\item.prefab": {
+      "time": 1761820755000,
+      "uuid": "a05e0eb0-c217-4659-baa9-a37fca8ae105"
+    },
+    "D:\\workspace\\cocosworkspace\\dynamicListZip\\assets\\test\\listItem.prefab": {
+      "time": 1761904546950.0483,
+      "uuid": "36304eae-8fab-4a44-b334-0e2ea9176544"
+    },
+    "D:\\workspace\\cocosworkspace\\dynamicListZip\\assets\\test\\item.prefab.meta": {
+      "time": 1761820755000
+    },
+    "D:\\workspace\\cocosworkspace\\dynamicListZip\\assets\\test\\listItem.prefab.meta": {
+      "time": 1761820755000
+    },
+    "D:\\workspace\\cocosworkspace\\dynamicListZip\\assets\\test\\DynamicListTest.scene.meta": {
+      "time": 1761820755000
+    }
+  },
+  "missing": {}
+}

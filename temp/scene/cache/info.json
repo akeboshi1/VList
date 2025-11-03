@@ -1,0 +1,11 @@
+{
+    "systemInfo": {
+        "arch": "x64",
+        "cpu": "13th Gen Intel(R) Core(TM) i7-13700",
+        "version": "Windows 10 Home China"
+    },
+    "sceneListMap": {
+        "16c50597-97c6-4fd7-8ae6-a4e7b2af18e9": "D:\\workspace\\cocosworkspace\\dynamicListZip\\assets\\test\\DynamicListTest.scene"
+    },
+    "deviceMd5": "491ab2f55aa3bd425b4c7367f2e64cd0"
+}
